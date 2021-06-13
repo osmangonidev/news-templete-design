@@ -46,7 +46,7 @@ header{
 }
 .header-main{
     margin: 20px;
-    background-image: url(/image-assets/img-4.jpg);
+    background-image: url("./image-assets/img-4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
